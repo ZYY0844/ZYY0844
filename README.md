@@ -12,7 +12,7 @@ I am looking for the research or engineer position in automotive sector or start
 
 1. Robust contactless vital sign monitoring based on mmWave radar [(Homepage)](https://github.com/ZYY0844/radarODE-MTL)
 2. Data augmentation for radar spectrogram for vital sign monitoring [(Homepage)](https://github.com/ZYY0844/Horcrux)
-3. Cardiac Localization with transfer learning (In progress)
+3. Cardiac Localization for high-SNR signal acquisition and transfer learning for new scenarios with limited data (Homepage in preparation)
 4. Mamba-based time-series forecasting with enhanced nonlinearity (Homepage in preparation).
 
 <!-- ## More about My Work Experience -->
