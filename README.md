@@ -8,3 +8,12 @@ Prior to this, I pursued my Ph.D. degree in **University of Liverpool** since De
 <!-- ## Open to Work [(CV)](cv.pdf)
 I am looking for the research or engineer position in automotive sector or start-up companies focusing on wellness monitoring or millimeter-wave sensing. -->
 
+## News
+
+- **2026.02** &mdash; Awarded the **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship**, with the fellowship to commence in Summer 2027.
+- **2026.01** &mdash; Started as a Postdoctoral Associate at the [SensorWeb Lab](https://sensorweb.engr.uga.edu/), University of Georgia.
+- **2025.11** &mdash; Successfully defended my Ph.D. thesis *"Robust Cardiac Feature Monitoring based on Millimeter-Wave Radar"*.
+- **2025.10** &mdash; Paper *"From High-SNR Radar Signal to ECG: A Transfer Learning Model with Cardio-Focusing Algorithm for Scenarios with Limited Data"* accepted by [IEEE Transactions on Mobile Computing](https://ieeexplore.ieee.org/document/11216086).
+
+For more, see my [Homepage](https://zyy0844.github.io/).
+
