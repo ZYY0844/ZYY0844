@@ -8,14 +8,5 @@ Prior to this, I pursued my Ph.D. degree in **University of Liverpool** since De
 <!-- ## Open to Work [(CV)](cv.pdf)
 I am looking for the research or engineer position in automotive sector or start-up companies focusing on wellness monitoring or millimeter-wave sensing. -->
 
-## More about My Research
+🔗 **Homepage:** https://zyy0844.github.io/
 
-1. Robust contactless vital sign monitoring based on mmWave radar [(Homepage)](https://github.com/ZYY0844/radarODE-MTL)
-2. Data augmentation for radar spectrogram for vital sign monitoring [(Homepage)](https://github.com/ZYY0844/Horcrux)
-3. Cardiac Localization for high-SNR signal acquisition and transfer learning for new scenarios with limited data [(Homepage)](https://github.com/ZYY0844/CFT-RFcardi)
-4. Mamba-based time-series forecasting with enhanced nonlinearity [(Homepage)](https://github.com/Kyushu-U-AI/CME-Mamba)
-
-<!-- ## More about My Work Experience -->
-
-
-<!-- 快速适应能力 -->
